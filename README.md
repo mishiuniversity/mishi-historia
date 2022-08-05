@@ -2,4 +2,4 @@
 Mishi historia
 
 
-Hola chicos, soy Diana haciendo males en este archivo.
+Hola chicos, soy Diana haciendo cambios en este archivo.

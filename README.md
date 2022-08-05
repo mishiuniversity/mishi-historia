@@ -1,6 +1,8 @@
 # mishi-historia
 Mishi historia
 
+Hola yo soy Sergio, vamos 
+
 Hola chicos, soy Diana haciendo cambios en este archivo.
 
 Hola soy Mishi Santi, y esta es mi primera rama jeje :)
